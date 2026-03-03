@@ -1,0 +1,28 @@
+{
+  "name": "openapi-mock",
+  "version": "1.0.0",
+  "description": "Instant mock server from your OpenAPI spec. Realistic data. Zero config. Zero dependencies.",
+  "type": "module",
+  "bin": {
+    "openapi-mock": "./index.js",
+    "oamock": "./index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "developer-tools",
+    "cli",
+    "nodejs",
+    "zero-dependencies",
+    "openapi",
+    "mock",
+    "api",
+    "testing"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NickCirv/openapi-mock"
+  }
+}
