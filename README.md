@@ -1,3 +1,5 @@
+![Banner](banner.svg)
+
 # openapi-mock
 > Instant mock server from your OpenAPI spec. Realistic data. Zero config. Zero dependencies.
 
